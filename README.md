@@ -1,6 +1,5 @@
 Hi, I’m @DanielBrinco-BR  
-I’m interested in Programming Languages, Frameworks, Mobile and Backend Development, etc.  
-I’m currently learning Android with Kotlin and Java Backend with Spring Boot  
+I’m interested in Programming Languages, Mobile, Backend Development, etc.  
 How to reach me: daniel.brinco@gmail.com  
 
 <!---
